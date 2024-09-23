@@ -1,4 +1,4 @@
-print("Hello World and have a good day!")
+print("Hello World and thanks for all the fish!")
 # import json
 
 
